@@ -6,3 +6,6 @@ console.log('hello !')
 if (truc) {
     console.log('truc')
 };
+
+//maj fonction compliquée
+console.log('maj truc');
